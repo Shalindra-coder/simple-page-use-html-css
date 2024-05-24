@@ -1,0 +1,136 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-items: center;
+    
+
+
+
+}
+
+#container {
+    height: 700px;
+    width: 900px;
+    background-color: blue;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/199/924/33/muscle-muscle-bodybuilding-press-wallpaper-preview.jpg");
+    background-size: cover;
+    display: flex;
+    
+
+
+}
+
+.navbar {
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+    display: flex;
+
+}
+
+.icon {
+    width: 200px;
+    float: left;
+    height: 70px;
+    display: flex;
+
+}
+
+.logo {
+    color: white;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+    font-weight: lighter;
+    font-style: italic;
+    font-style: ;
+    display: flex;
+
+
+
+
+}
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+    padding-left: 4px display: flex;
+
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+ul li {
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 20px;
+    display: flex;
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: antiquewhite;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    display: flex;
+
+
+
+}
+
+ul li a:hover {
+    color: #ff7200;
+    display: flex;
+
+}
+
+#div-main {
+    height: 200px;
+    width: 700px;
+
+    margin-top: 350px;
+    color: white;
+    margin-left: 200px ;
+
+}
+
+#heading {
+    font-size: 35px;
+    background: linear-gradient(to right, white 46%, rgb(146, 234, 14) 50%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: solid;
+    font-weight: bolder;
+    display: flex;
+
+
+
+}
+
+button {
+    margin-left: 160px;
+    height: 50px;
+    width: 180px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgba(32, 32, 27, 0.133);
+    color: white;
+    border: 3px black solid;
+    
+
+}
